@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @campagnarinicholas
-- 👀 I’m interested in web/XR development and software engineering.
-- 🌱 I’m currently learning the react library and the Django REST framework
-- 💞️ I’m looking to collaborate on web XR projects!
+- 👀 I’m interested in web development and software engineering.
+- 🌱 I’m currently learning Rails and React.
+- 💞️ I’m looking to collaborate on web app projects!
 - 📫 EMAIL: campagnarinicholas@gmail.com
 
 <!---
