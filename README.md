@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @campagnarinicholas
 - 👀 I’m interested in web development and software engineering.
-- 🌱 I’m currently learning Principles of OS, Data Visualization, and Geometric Algorithms.
+- 🌱 I’m currently learning Ruby on Rails.
 - 💞️ I’m looking to collaborate on web app projects!
 - 📫 EMAIL: campagnarinicholas@gmail.com
 
